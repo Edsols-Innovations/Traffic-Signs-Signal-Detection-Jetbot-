@@ -1,0 +1,13 @@
+BACKGROUND
+cross walk
+gate closed
+gate opened
+stop
+no entry
+speed limit 50
+parking
+construction ahead
+traffic police
+signal-green
+road-crosswalk
+100m
